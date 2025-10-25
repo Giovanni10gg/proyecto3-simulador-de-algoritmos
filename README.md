@@ -1,4 +1,3 @@
-
 🖥️ Simulador de Planificación de Procesos (Sistemas Operativos)
 
 Este proyecto implementa un simulador visual de planificación de procesos a corto plazo, utilizando Java Swing para la interfaz gráfica. Permite simular distintos algoritmos clásicos de planificación de CPU, mostrando en tiempo real el avance de cada proceso, su estado en la cola y el diagrama de Gantt.
@@ -79,6 +78,7 @@ Expropiativo: cada proceso se ejecuta por turnos circulares.
 ----------------------
 🖼️ Interfaz Gráfica
 ----------------------
+<img width="936" height="498" alt="image" src="https://github.com/user-attachments/assets/ca052890-fc67-48f5-9631-85d1ccd703bb" />
 
 ----------------------
 Métricas Calculadas
@@ -96,6 +96,9 @@ Además, se calculan promedios generales de TR y TE al finalizar la simulación.
 ---------------------
 Como usarlo
 ---------------------
+Funcionalidades 
+<img width="936" height="504" alt="image" src="https://github.com/user-attachments/assets/c876b690-0c3d-4b86-af9f-7b31eea9f0a8" />
+Se agregan los procesos correspondientes y se elige el algoritmo a utilizar y se comienza la simulacion
 
 ------------------------------
 💻 Requisitos del Sistema
